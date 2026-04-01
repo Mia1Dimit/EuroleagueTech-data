@@ -1,0 +1,21 @@
+# Local and editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary and generated artifacts
+*.tmp
+*.log
+*.bak
+*.zip
+
+# Internal process material (do not publish)
+skills/
+
+# Official documents may have copyright restrictions
+euroleague-official-docs/*.pdf
+
+# Personal notes if added later
+notes.md
+PROJECT-PROGRESS.md
